@@ -5,7 +5,7 @@ Akshara-Pi is an open-source hardware-software framework designed to create a di
 
 The core philosophy is "The Human-AI Handshake": using Generative AI (Google Gemini) to architect complex C-pointer logic and SPI timing, while the human "Maker" focuses on typography, ergonomics, and system state-flow.
 
-🏛️ System Architecture
+🏛️ **System Architecture**
 The project follows a Decoupled Rendering Pipeline to maximize the limited resources of the Pi Zero's 512MB RAM.
 
 1. The Ingestion Layer (Python/MuPDF)
