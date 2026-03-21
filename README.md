@@ -24,3 +24,5 @@ Logic: A robust C-based state machine handles hardware interrupts from the 5-way
 Role: Communicates with the E-ink Controller.
 
 Logic: Uses custom Look-Up Tables (LUTs) to achieve sub-second partial refreshes, bypassing the slow "global flash" of standard drivers.
+
+**Note : There is a ESP32 version as well now, works with Good Display 5.76 HD Carta epaper display**, **check the branch**
